@@ -14,9 +14,7 @@
 11. Confirme a compra e valide se foi finalizada com sucesso.
 
 **Executando o script - Passo a Passo:**
- 1. Baixe o projeto e descompacte-o;
- 2. Acesse o IntelliJ IDE;
- 3. clique em "File" e depois em "Open Projects from File System...";
- 4. Após, clique em "src/test/java";
- 5. Clique no pacote "casoDeTeste" e com o botão direito sobre o buyProductTestCase.java e selecione "Run As" e após "JUnit Test";
- 6. Durante o teste poder ser solitado um novo email para cadastro caso o email ja esteja cadastrado
+ 1. Baixe e descompacte o projeto;
+ 2. Abra o projeto no IntelliJ IDE;
+ 3. Vá em src/test/java/AutomacaoCompraLoja e execute o teste comprarProduto();
+
