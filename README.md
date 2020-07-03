@@ -1,4 +1,4 @@
-﻿
+# Instruções
 
 **Caso de teste proposto: realizar uma compra com sucesso**
 1. Acessar o site: www.automationpractice.com.
