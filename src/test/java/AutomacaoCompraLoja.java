@@ -43,7 +43,7 @@ public class AutomacaoCompraLoja {
 
         autenticacaoPage = new AutenticacaoPage(driver);
         Assert.assertTrue(autenticacaoPage.isPresent());
-        autenticacaoPage.validarEmail("1234teste@teste.com");
+        autenticacaoPage.validarEmail("1234567teste@teste.com");
 
         cadastroPage = new CadastroPage(driver);
         Assert.assertTrue(cadastroPage.isPresent());
