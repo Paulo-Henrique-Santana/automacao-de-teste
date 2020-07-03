@@ -16,5 +16,5 @@
 **Executando o script - Passo a Passo:**
  1. Baixe e descompacte o projeto;
  2. Abra o projeto no IntelliJ IDE;
- 3. Vá em src/test/java/AutomacaoCompraLoja e execute o teste comprarProduto();
+ 3. Vá em src/test/java/AutomacaoCompraLoja e execute o teste comprarProduto;
 
